@@ -35,6 +35,7 @@ These datasets were integrated into a centralized Financial Summary table.
 2.	Power Query
 3.	Pivot Tables & Pivot Charts
 4.	Conditional Formatting
+   
 **Excel Functions**
 1.	SUMIFS
 2.	COUNTIFS
@@ -48,6 +49,7 @@ KPI Cards**
 2.	Total Cost
 3.	Net Profit / Loss
 4.	Active Staff
+   
 **Visualizations**
 1.	Revenue vs Total Cost by Campus
 2.	Net Profit / Loss by Campus

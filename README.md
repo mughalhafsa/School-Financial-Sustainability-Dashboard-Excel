@@ -9,6 +9,7 @@ Before this dashboard:
 3.	No centralized financial summary for management
 4.	Difficult to identify profitable and loss-making campuses
 5.	Fee defaulter losses could not be monitored efficiently
+   
 _Note: This project uses realistic sample data for portfolio demonstration. Original organizational data has not been shared due to confidentiality._
 
 **My Role**
@@ -89,4 +90,5 @@ This project strengthened my skills in:
 **dashboard.png**	Dashboard screenshot
 **power_query.png**	Data cleaning workflow 
 
-
+**Portfolio Note**
+_This project demonstrates my ability to solve a real-world business problem by transforming operational data into an automated financial reporting solution using Microsoft Excel. It showcases the complete data analysis lifecycle—from stakeholder coordination and data preparation to dashboard development and business insight generation_

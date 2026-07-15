@@ -1,5 +1,5 @@
 **School Financial Sustainability Dashboard | Excel Portfolio Project
-Excel-based Financial Sustainability Dashboard | Developed by Hafsa Mughal for a real-world school financial reporting workflow | Portfolio demonstration using realistic sample data**
+Excel-based Financial Sustainability Dashboard | Designed by Hafsa Mughal for a real-world school financial reporting workflow | Portfolio demonstration using realistic sample data**
 
 **Problem Statement**
 The school operates across 5 campuses, but there was no centralized financial reporting system to compare campus-wise financial performance.
